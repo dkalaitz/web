@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dkalaitz/blockchain2022.git/static/css/main.db2ff465.css",
+    "main.js": "/dkalaitz/blockchain2022.git/static/js/main.488f7f6d.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/dkalaitz/blockchain2022.git/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/banner.jpg": "/dkalaitz/blockchain2022.git/static/media/banner.80d6ce6fb3da571804c9.jpg",
+    "static/media/car.png": "/dkalaitz/blockchain2022.git/static/media/car.87274876c632ce95dc8a.png",
+    "static/media/computer.jpg": "/dkalaitz/blockchain2022.git/static/media/computer.4dedd2d116aa5f156c83.jpg",
+    "static/media/smartphone.jpg": "/dkalaitz/blockchain2022.git/static/media/smartphone.52ab20c3a4a66b54ced0.jpg",
+    "static/media/logo.svg": "/dkalaitz/blockchain2022.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dkalaitz/blockchain2022.git/index.html",
+    "main.db2ff465.css.map": "/dkalaitz/blockchain2022.git/static/css/main.db2ff465.css.map",
+    "main.488f7f6d.js.map": "/dkalaitz/blockchain2022.git/static/js/main.488f7f6d.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/dkalaitz/blockchain2022.git/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db2ff465.css",
+    "static/js/main.488f7f6d.js"
+  ]
+}

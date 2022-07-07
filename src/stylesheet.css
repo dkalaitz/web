@@ -1,0 +1,157 @@
+body {
+    background-color: #EEEEEE;
+    padding: 0;
+    margin: 2em 0 0;
+}
+
+#container {
+    width: 910px;
+    margin: auto;
+
+}
+
+div#banner {
+    width: 100%;
+    display: inline;
+    position: fixed;
+
+    padding: .5em .5em 0.2em 0;
+    margin-top: -2em;
+
+    background: url(images/banner.jpg) no-repeat;
+    height: 205px;
+
+
+}
+
+h1 {
+    color: #FFFACD;
+    /* LemonChiffon Color */
+    font-size: 3em;
+    font-family: 'Bradley Hand', cursive;
+    font-style: italic;
+    text-align: left;
+    margin: 90px 0px 0px 30px;
+}
+
+
+/*CONTENT*/
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+img {
+    float: left;
+    width: 300px;
+    height: 210px;
+    object-fit: cover;
+}
+
+
+div#content {
+    background-color: white;
+    margin: auto;
+    position: absolute;
+    top: 205px;
+    width: 910px;
+}
+
+h2 {
+    color: #013352;
+    /*dark blue*/
+    font-size: 1.5em;
+    font-weight: bolder;
+    font-family: Rockwell, serif;
+    text-align: center;
+    padding: 1% 0 1%;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+}
+
+label {
+    font-size: 16px;
+    color: #43545C;
+}
+
+p {
+    display: block;
+    color: #43545C;
+    padding: 0 1em .2em;
+    margin: 0;
+    font-size: 1em;
+    font-family: Calibri, sans-serif;
+}
+
+
+.bids {
+    color: dimgray;
+    border: none;
+    border-color: transparent;
+    text-align: right;
+    font-size: 20px;
+    width: 50%;
+    float: center;
+    pointer-events: none;
+}
+
+
+
+footer {
+    font-size: .8em;
+    font-family: Calibri, sans-serif;
+    clear: both;
+    padding: 1em 1em;
+}
+
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #b8b894;
+}
+
+.leftButton {
+    color: white;
+    background-color: #0099cc;
+}
+
+.leftButton:hover {
+    background-color: #4dd2ff;
+}
+
+.rightButton {
+    color: white;
+    background-color: #ff5500;
+}
+
+.rightButton:hover {
+    background-color: #ffbf80
+}
